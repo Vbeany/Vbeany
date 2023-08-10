@@ -1,6 +1,6 @@
 <h1 align="center">👋, Hi there I'm Venus Nguyen</h1>
 
-<h3 align="center">A passionate CompSci Learner</h3>
+<h3 align="center"> Just a student trying to learn</h3>
 
 - 🔭 I’m currently working on [My Portfolio]()
 
@@ -30,6 +30,7 @@
 `Windows` `IOS` <br/>
 `Illustrator` `Figma` `Photoshop` `Unity` <br/> 
 
+<!--
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -38,8 +39,7 @@
 
 
 
-
-<!-- ### Hi there 👋
+ ### Hi there 👋
 
 **Vbeany/Vbeany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
