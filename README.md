@@ -1,4 +1,4 @@
-<h1 align="center">👋, Hi There I'm Venus Nguyen</h1>
+<h1 align="center">👋, Hi there I'm Venus Nguyen</h1>
 
 <h3 align="center">A passionate CompSci Learner</h3>
 
