@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **ReactJS and C#**
 
-- 👯 I’m looking to collaborate on **Front-end and Web Development** 
-
 <!-- - 🤝 I’m looking for assistance with **DSA** -->
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Vbeany)
@@ -16,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, Java, Python, Photoshop, Unity**
 
-<!-- - 📫 How to reach me **chetan611611611@gmail.com** -->
+- 📫 How to reach me **venusnguyen17@gmail.com**
 
 <!-- - 📄 Know about my experiences [Coming Soon...](Coming Soon...) -->
 
