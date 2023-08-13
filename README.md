@@ -2,7 +2,7 @@
 
 <h3 align="center"> Just a student trying to learn</h3>
 
-- 🔭 I’m currently working on [My Portfolio]()
+- 🔭 I’m currently working on [My Portfolio](https://vbeany.github.io/)
 
 - 🌱 I’m currently learning **ReactJS and C#**
 
